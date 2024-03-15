@@ -1,5 +1,7 @@
 # ERP System Frontend
 
+Published here: [https://rajeev54321.github.io/ENTNT-Assignment/](https://rajeev54321.github.io/ENTNT-Assignment/)
+
 ## Project Overview
 
 The goal of this project is to create a simplified interface for an ERP (Enterprise Resource Planning) system, designed to efficiently manage basic business operations. The system includes the following pages:
