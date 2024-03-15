@@ -93,6 +93,3 @@ Feel free to connect with me on LinkedIn for more projects and professional enga
 
 
 ---
-
-This README serves as a guide to understand and interact with the ERP System Frontend. If you have any questions or need further assistance, please don't hesitate to contact us.
-# ENTNT-Assignment
