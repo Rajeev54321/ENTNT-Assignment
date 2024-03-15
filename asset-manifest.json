@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ENTNT-Assignment/static/css/main.e4322710.css",
+    "main.js": "/ENTNT-Assignment/static/js/main.f5a5c4bd.js",
+    "static/js/453.f348d8e1.chunk.js": "/ENTNT-Assignment/static/js/453.f348d8e1.chunk.js",
+    "index.html": "/ENTNT-Assignment/index.html",
+    "main.e4322710.css.map": "/ENTNT-Assignment/static/css/main.e4322710.css.map",
+    "main.f5a5c4bd.js.map": "/ENTNT-Assignment/static/js/main.f5a5c4bd.js.map",
+    "453.f348d8e1.chunk.js.map": "/ENTNT-Assignment/static/js/453.f348d8e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4322710.css",
+    "static/js/main.f5a5c4bd.js"
+  ]
+}
